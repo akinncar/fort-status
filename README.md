@@ -3,7 +3,7 @@
 To run the app in your emulator or device, access https://fortnitetracker.com/site-api and sing up to generate your API key. Use yout favorite package mananger to install the packages.
 
 ```yarn install```
-ou
+or
 ```npm install```
 
 The key has to be inserted in: <b>src/store/sagas/profile.js.dist</b> (remove dist extension)
