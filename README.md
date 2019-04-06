@@ -1,23 +1,23 @@
-# Instalar
+# Project Install
 
-Para rodar a aplicação no seu emulador ou device, acesse o site https://fortnitetracker.com/site-api e cadastre-se para gerar sua chave da API. Utilize o gerenciador de pacotes a sua escolha para instalar as dependências.
+To run the app in your emulator or device, access https://fortnitetracker.com/site-api and sing up to generate your API key. Use yout favorite package mananger to install the packages.
 
 ```yarn install```
 ou
 ```npm install```
 
-A chave deve ser inserida em: <b>src/store/sagas/profile.js.dist</b> (remover a extensão dist)
+The key has to be inserted in: <b>src/store/sagas/profile.js.dist</b> (remove dist extension)
 
-# Demonstração
+# Demo
 
 ![ezgif-2-779ee7a7d8df](https://user-images.githubusercontent.com/42688281/54485530-139f3180-4859-11e9-91f9-e2a81da7beba.gif)
 
 
 
-# Atualizações Futuras
+# Future Updates
 <ul>
-  <li>Atualização de Layout da tela Profile</li>
-  <li>Organização de import da API Key</li>
-  <li>Mensagens de Erro</li>
-  <li>Tratamento de consulta da plataforma na API</li>
+  <li>Update layout from Profile page.</li>
+  <li>Organize the  API import.</li>
+  <li>Create error messages.</li>
+  <li>Treat plataform queries in API.</li>
 </ul>
