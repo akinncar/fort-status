@@ -1,8 +1,11 @@
 {
   "expo": {
-    "name": "fort-status2",
-    "slug": "fort-status2",
+    "name": "fort-status",
+    "slug": "fort-status",
     "version": "1.0.0",
+    "extra": {
+      "apiKey": "053219f8-29ca7ed0-b4c669d8-e9b48f53"
+    },
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -13,9 +16,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
