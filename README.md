@@ -1,3 +1,5 @@
+[![Expo](./assets/header.png)](https://fortstatus.netlify.com/)
+
 <p align="center"> 
   <a aria-label="" href="/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-success.svg?style=flat-square&color=33CC12" target="_blank" />
@@ -18,7 +20,7 @@
 
 To run the app in your emulator or device, access https://fortniteapi.io and sing up to generate your API key. Use yout favorite package mananger to install the packages.
 
-`yarn install`
+`yarn`
 or
 `npm install`
 
