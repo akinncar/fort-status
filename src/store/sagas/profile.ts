@@ -29,6 +29,8 @@ export function* searchProfile(action) {
       }
     );
 
+    console.log(responseStats);
+
     yield put(ProfileActions.searchProfileSuccess(responseStats.data));
   } catch (err) {
     yield put(ProfileActions.searchProfileFailure("Jogador não encontrado"));

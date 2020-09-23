@@ -17,7 +17,7 @@ const SearchBar: React.FC = ({ onSubmit }) => {
         value={username}
         onChangeText={(text) => setUsername(text)}
         style={styles.textInput}
-        placeholder="Epic username"
+        placeholder="Fortnite username"
       />
       <TouchableOpacity
         onPress={() => onSubmit(username)}

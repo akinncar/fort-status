@@ -1,4 +1,6 @@
-[![Expo](./assets/header.png)](https://fortstatus.netlify.com/)
+<p align="center"> 
+  <img src="./assets/header.png" href="https://fortstatus.netlify.com">
+</p>
 
 <p align="center"> 
   <a aria-label="" href="/LICENSE" target="_blank">
@@ -25,6 +27,8 @@ or
 `npm install`
 
 The key has to be inserted in: <b>src/store/sagas/profile.ts</b>
+
+(If you don't play Fortnine, you can test app using my username😉: akinncar)
 
 # Future Updates
 
