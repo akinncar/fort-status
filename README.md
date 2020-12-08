@@ -28,7 +28,7 @@ or
 
 The key has to be inserted in: <b>src/store/sagas/profile.ts</b>
 
-(If you don't play Fortnine, you can test app using my username😉: akinncar)
+(If you don't play Fortnine, you can test app using my username 😉: akinncar)
 
 # Future Updates
 
